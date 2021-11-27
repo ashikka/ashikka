@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UXP Photoshop Plugin Samples](https://github.com/AdobeDocs/uxp-photoshop-plugin-samples)
 
-- 👨‍💻 All of my projects are available on [Github](https://github.com/ashikka)
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/ashikka)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ashikagupta28)
 
