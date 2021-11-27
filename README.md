@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashikagupta28@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pC5RPNRn1z4noF2UtS0iD98QW4W5OMFxty3rMYb-cn4/edit?usp=sharing](https://docs.google.com/document/d/1pC5RPNRn1z4noF2UtS0iD98QW4W5OMFxty3rMYb-cn4/edit?usp=sharing)
+- 📄 Download my resume [here](https://docs.google.com/document/d/1pC5RPNRn1z4noF2UtS0iD98QW4W5OMFxty3rMYb-cn4/edit?usp=sharing)
 
 - ⚡ Fun fact **I can sleep for 20 hours a day**
 
