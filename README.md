@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I can sleep for 20 hours a day**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/ashikka-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikka-gupta" height="30" width="40" /></a>
 <a href="https://medium.com/@ashikagupta28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashikagupta28" height="30" width="40" /></a>
 </p>
